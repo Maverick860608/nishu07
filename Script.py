@@ -1,6 +1,7 @@
 class script(object):
     START_TXT = """NAMASTE 🙏 {},
-Mera Naam Hai <a href=https://t.me/{}>{}</a>, Mai Apko Lakar Dunga Movies & Web Series,Bass Add Kijiye Mujhe Aapke Group Mein & Enjoy 😍👍🏻"""
+
+Mera Naam Hai <a href=https://t.me/{}>{}</a>, Mai Apko Lakar Dunga Movies & Web Series,Bass Add Kijiye Mujhe Aapke Group Mein & Enjoy 🤩🥳👍🏻"""
     HELP_TXT = """Haan Ji {}
 Ye Hai Help For My Commands."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
@@ -8,11 +9,11 @@ Ye Hai Help For My Commands."""
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: MOGENIUS
+✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙼𝙾𝙶𝙴𝙽𝙸𝚄𝚂
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Maveriicckkk24*7 is an open source project. 
-- Source - https://github.com/Maverick19870806/Harsh
+- Source - https://github.com/Maverick19870806/nishu07
 
 <b>DEVS:</b>
 - <a href=https://t.me/Maveriicckkk>Team Movies Masti Magic</a>"""
@@ -21,7 +22,7 @@ Ye Hai Help For My Commands."""
 - Filter is the feature were users can set automated replies for a particular keyword and Maveriicckkk24*7 will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. Maveriicckkk24*7 should have admin privillage.
+1. Maveriicckkk24*7 should have admin privilege.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
