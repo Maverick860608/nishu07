@@ -1,7 +1,7 @@
 class script(object):
     START_TXT = """NAMASTE 🙏 {},
 
-Mera Naam Hai <a href=https://t.me/{}>{}</a>, Mai Apko Lakar Dunga Movies & Web Series,Bass Add Kijiye Mujhe Aapke Group Mein & Enjoy 🤩🥳👍🏻"""
+Mera Naam Hai <a href=https://t.me/{}>{}</a>, Mai Apko Lakar Dunga Movies & Web Series,Bass Add Kijiye Mujhe Aapke Group Mein,Admin bana dijiye & Enjoy 🤩🥳👍🏻"""
     HELP_TXT = """Haan Ji {}
 Ye Hai Help For My Commands."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
