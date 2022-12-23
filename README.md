@@ -6,13 +6,16 @@
 </h1>
 
 
-[![Stars](https://img.shields.io/github/stars/EvamariaTG/EvaMaria?style=flat-square&color=yellow)](https://github.com/EvamariaTG/EvaMaria/stargazers)
-[![Forks](https://img.shields.io/github/forks/EvamariaTG/EvaMaria?style=flat-square&color=orange)](https://github.com/EvamariaTG/EvaMaria/fork)
-[![Size](https://img.shields.io/github/repo-size/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/EvamariaTG/EvaMaria)   
-[![Contributors](https://img.shields.io/github/contributors/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/EvamariaTG/EvaMaria/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Mavericksworldd!;Created+by+@Maveriicckkk!;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
+</p>
+
+[![Stars](https://img.shields.io/github/stars/Maverick860608/nishu07?style=flat-square&color=yellow)](https://github.com/Maverick860608/nishu07/stargazers)
+[![Forks](https://img.shields.io/github/forks/Maverick860608/nishu07?style=flat-square&color=orange)](https://github.com/Maverick860608/nishu07/fork)
+[![Size](https://img.shields.io/github/repo-size/Maverick860608/nishu07?style=flat-square&color=green)](https://github.com/Maverick860608/nishu07/)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Maverick860608/nishu07)   
+[![Contributors](https://img.shields.io/github/contributors/Maverick860608/nishu07?style=flat-square&color=green)](https://github.com/Maverick860608/nishu07/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Maverick860608/nishu07/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/Maverick860608/nishu07.svg)](https://stars.medv.io/Maverick860608/nishu07)
 
 
 ## Features
